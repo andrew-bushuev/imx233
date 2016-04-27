@@ -1,0 +1,50 @@
+Item 	Qty  	Ordering Code                                                   	Part number         	Value Assembly	Ref Des
+1    	36   	100nF X7R 16V smd0603                                           	C0603_100nF_X7R     	100nF       	C1,C3,C5,C6,C9,C11,C12,C14,C15,C16,C18,C19,C20,C21,C22,C23,C26,C27,C28,C29,C30,C33,C142,C144,C153,C157,C158,C163,C164,C166,C167,C168,C169,C170,C171,C172
+2    	15   	10uF X7R 6.3V smd0603                                           	C0603_10uF_X7R      	10uF        	C2,C4,C8,C10,C34,C145,C146,C147,C148,C149,C152,C155,C160,C161,C162
+3    	2    	10pF NPO smd0603                                                	C0603_10pF_NPO      	10pF        	C7,C17
+4    	4    	1uF X7R smd0603                                                 	C0603_1uF_X7R       	1uF         	C13,C150,C151,C165
+5    	2    	Open smd0603                                                    	C0603_open          	Open        	C24,C25
+6    	2    	10.0uF X5R 16V smd0805                                          	C0805_10uF_X5R_16V  	10uF 16V    	C31,C154
+7    	2    	220.0uF 6.3V TantD                                              	CTantD_220uF_6V3    	220uF 6.3V  	C32,C143
+8    	1    	2.2uF 16V X5R smd0603                                           	C0603_2uF2_X5R 16V  	2.2uF 16V   	C35
+9    	2    	10nF X7R 50V smd0603                                            	C0603_10nF_X7R      	10nF        	C36,C159
+10   	1    	47pF NPO smd0603                                                	C0603_47pF_NPO      	47pF        	C156
+11   	1    	Voltage Regulator Diode BZX84C5V1                               	BZX84C5V1           	            	D1
+12   	1    	Schottky barrier diodes BAT54S                                  	BAT54S              	            	D10
+13   	1    	Schottky Barrier Diode CD0603                                   	CD0603              	            	D11
+14   	4    	BLM18AG221SN1 Suppresion Filter, 220 Ohm, 500mA, 0.25 ohm, 0603 	BLM18AG221SN1       	220 Ohm     	FB1,FB2,FB5,FB6
+15   	1    	LED Indicator SMD0603                                           	LED_0603            	            	LD1
+16   	1    	744025100 (10uH +/- 20%  1.0A  0.190ohm)  WURTH ELEKTRONIK      	744025100           	10uH        	L1
+17   	1    	744025002 (2.2uH 1.8A) WURTH ELEKTRONIK                         	744025002           	2uH2 1.8 A  	L2
+18   	2    	PLD16, pitch 2mm                                                	CN_PLD_16_2mm       	            	P1,P5
+19   	1    	CN_USBA-1J (USB, Type A)                                        	CN_USBA-1J          	            	P2
+20   	3    	PBD6, pitch 2mm                                                 	CN_PBD_6_2mm        	            	P3,P4,P6
+21   	1    	PBD12, pitch 2mm                                                	CN_PBD_12_2mm       	            	P7
+22   	1    	350-021-12 Dinkle, screw, 3.50mm pitch, Blue                    	350-021-12_Dinkle   	            	P8
+23   	2    	3.5mm Phone Jack ST033                                          	CN_AUDIO_3M5_ST033  	            	P9,P10
+24   	1    	PIN HEADER 2.54mm 1x2                                           	CN_HDR_1x2          	            	P11
+25   	1    	MICRO SD with S/W 503182-0852                                   	MICRO-SD_503182-0852	            	P25
+26   	1    	BC847BS Double Trasistor NPN SOT363                             	BC847BS             	BC847BS     	Q1
+27   	1    	NTC Thermistor 10K 3% at 25C, B57421V2102H062 (Epcos)				NTC0805_10K_Epcos   	10K         	RK1
+28   	6    	Open smd0603                                                    	R0603_open          	open        	R1,R2,R12,R13,R22,R23
+29   	16   	open smd0402                                                    	R0402_open          	open        	R3,R4,R5,R6,R7,R8,R9,R10,R112,R122,R123,R124,R125,R126,R127,R128
+30   	3    	10 kOhm 5% smd0603                                              	R0603_10K           	10K         	R11,R20,R110
+31   	4    	10 kOhm 1% smd0603                                              	R0603_10K 1%        	10K 1%      	R14,R15,R16,R17
+32   	5    	10 kOhm 1% smd0603                                              	R0603_10K 1%        	10K 1%      	R18,R19,R108,R109,R118
+33   	5    	1 kOhm 1% smd0603                                               	R0603_1K 1%         	1K 1%       	R21,R111,R113,R116,R117
+34   	1    	360 kOhm smd0603                                                	R0603_360K          	360K        	R24
+35   	1    	100K 1% smd0603                                                 	R0603_100K 1%       	100K 1%     	R25
+36   	1    	1 kOhm 5% smd0603                                               	R0603_1K            	1K          	R26
+37   	2    	100 Ohm smd0603                                                 	R0603_100           	100         	R104,R105
+38   	2    	4.7 kOm 1% smd0603                                              	R0603_4K7 1%        	4K7 1%      	R106,R107
+39   	1    	0 Ohm smd0603                                                   	R0603_0 Ohm         	0 Ohm       	R114
+40   	3    	0 Ohm smd0603                                                   	R0603_0 Ohm         	0 Ohm       	R115,R120,R121
+41   	1    	100 kOhm smd0603                                                	R0603_100K          	100K        	R119
+42   	11   	Test Point 1mm                                                  	TEST_POINT_1mm      	            	TP1,TP2,TP3,TP16,TP17,TP18,TP19,TP20,TP21,TP22,TP23
+43   	1    	64-mbit Serial Flash Memory                                     	M25P64-VME6         	            	U1
+44   	1    	Freescale/NXP iMX233 SoC                                          	MCIMX233CAG4C       	            	U2
+45   	1    	AT24C16AN-10SI-2.7                                              	AT24C16AN           	            	U3
+46   	1    	TPS62150A 3-17V 1A Step-Down Converter                          	TPS62150A           	            	U4
+47   	1    	MT46V16M16TG-5B(E,Z) 4Meg x16x 4banks                           	MT46V16M16TG        	            	U22
+48   	1    	HC-49U-SMD, xxMHz                                               	QUARTZ_49           	Value       	X1
+                

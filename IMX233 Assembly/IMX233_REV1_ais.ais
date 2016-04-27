@@ -1,0 +1,166 @@
+$HEADER$
+BOARD_TYPE PCB_DESIGN
+UNITS MM
+$END HEADER$
+
+$PART_SECTION_BEGIN$
+C25                              C0603_open                       90.00      29.65      40.70      TOP        NO
+C20                              C0603_100nF_X7R                  0.00       23.00      57.00      TOP        NO
+R19                              R0603_10K 1%                     0.00       23.00      55.75      TOP        NO
+R18                              R0603_10K 1%                     0.00       23.00      54.50      TOP        NO
+X1                               QUARTZ_49                        0.00       17.95      41.70      TOP        NO
+C24                              C0603_open                       90.00      27.45      40.70      TOP        NO
+P7                               CN_PBD_12_2mm                    0.00       15.20      52.25      TOP        NO
+U3                               AT24C16AN                        90.00      23.10      60.25      TOP        NO
+R106                             R0603_4K7 1%                     180.00     36.80      57.80      BOTTOM     YES
+P8                               350-021-12_Dinkle                180.00     32.15      66.30      TOP        NO
+C150                             C0603_1uF_X7R                    0.00       30.80      57.80      BOTTOM     YES
+R104                             R0603_100                        180.00     35.80      49.80      BOTTOM     YES
+R107                             R0603_4K7 1%                     180.00     36.80      59.30      BOTTOM     YES
+R108                             R0603_10K 1%                     270.00     34.80      56.80      BOTTOM     YES
+R105                             R0603_100                        180.00     35.80      51.30      BOTTOM     YES
+C151                             C0603_1uF_X7R                    0.00       30.80      59.30      BOTTOM     YES
+R109                             R0603_10K 1%                     90.00      34.80      60.30      BOTTOM     YES
+P9                               CN_AUDIO_3M5_ST033               180.00     39.80      50.55      TOP        NO
+P10                              CN_AUDIO_3M5_ST033               180.00     39.80      58.55      TOP        NO
+R9                               R0402_open                       180.00     9.20       32.95      TOP        NO
+C143                             CTantD_220uF_6V3                 270.00     36.85      22.00      BOTTOM     YES
+C159                             C0603_10nF_X7R                   0.00       22.65      28.25      BOTTOM     YES
+C15                              C0603_100nF_X7R                  0.00       20.65      3.30       TOP        NO
+TP20                             TEST_POINT_1mm                   0.00       14.69      39.95      BOTTOM     YES
+TP21                             TEST_POINT_1mm                   0.00       14.70      41.40      BOTTOM     YES
+R128                             R0402_open                       180.00     8.50       44.75      BOTTOM     YES
+C22                              C0603_100nF_X7R                  90.00      26.00      36.85      TOP        NO
+TP2                              TEST_POINT_1mm                   0.00       23.67      46.05      TOP        NO
+C13                              C0603_1uF_X7R                    90.00      19.20      36.85      TOP        NO
+C35                              C0603_2uF2_X5R 16V               0.00       38.80      27.45      TOP        NO
+C145                             C0603_10uF_X7R                   0.00       31.80      28.65      BOTTOM     YES
+R7                               R0402_open                       180.00     9.20       31.05      TOP        NO
+R112                             R0402_open                       0.00       25.93      2.35       BOTTOM     YES
+P2                               CN_USBA-1J                       270.00     7.25       18.75      TOP        NO
+C171                             C0603_100nF_X7R                  270.00     11.05      14.05      BOTTOM     YES
+R25                              R0603_100K 1%                    270.00     35.65      31.25      TOP        NO
+C7                               C0603_10pF_NPO                   180.00     13.75      44.75      TOP        NO
+C158                             C0603_100nF_X7R                  90.00      22.80      21.40      BOTTOM     YES
+D1                               BZX84C5V1                        270.00     35.90      9.95       TOP        NO
+FB5                              BLM18AG221SN1                    270.00     28.90      31.20      BOTTOM     YES
+C19                              C0603_100nF_X7R                  90.00      23.60      36.85      TOP        NO
+C153                             C0603_100nF_X7R                  90.00      23.65      18.05      BOTTOM     YES
+C9                               C0603_100nF_X7R                  0.00       14.85      15.15      TOP        NO
+R11                              R0603_10K                        270.00     10.95      19.75      TOP        NO
+U1                               M25P64-VME6                      0.00       12.15      7.10       TOP        NO
+C29                              C0603_100nF_X7R                  0.00       31.80      33.70      TOP        NO
+R6                               R0402_open                       180.00     9.20       30.10      TOP        NO
+R110                             R0603_10K                        90.00      28.90      27.75      BOTTOM     YES
+C142                             C0603_100nF_X7R                  270.00     36.15      14.05      BOTTOM     YES
+C32                              CTantD_220uF_6V3                 270.00     36.85      22.00      TOP        NO
+R13                              R0603_open                       0.00       10.10      38.15      TOP        NO
+C147                             C0603_10uF_X7R                   0.00       31.80      31.20      BOTTOM     YES
+C16                              C0603_100nF_X7R                  90.00      22.00      36.85      TOP        NO
+R8                               R0402_open                       180.00     9.20       32.00      TOP        NO
+C3                               C0603_100nF_X7R                  90.00      2.35       33.70      TOP        NO
+R26                              R0603_1K                         270.00     39.75      24.60      TOP        NO
+R116                             R0603_1K 1%                      270.00     16.80      36.85      BOTTOM     YES
+R2                               R0603_open                       180.00     6.65       38.15      TOP        NO
+R121                             R0603_0 Ohm                      270.00     8.20       21.65      BOTTOM     YES
+U22                              MT46V16M16TG                     0.00       23.00      9.30       BOTTOM     YES
+C26                              C0603_100nF_X7R                  0.00       31.80      29.95      TOP        NO
+R15                              R0603_10K 1%                     0.00       16.10      54.70      TOP        NO
+C14                              C0603_100nF_X7R                  0.00       20.65      1.50       TOP        NO
+FB2                              BLM18AG221SN1                    90.00      34.25      35.55      TOP        NO
+R5                               R0402_open                       180.00     9.20       29.15      TOP        NO
+R114                             R0603_0 Ohm                      0.00       25.00      39.30      BOTTOM     YES
+C168                             C0603_100nF_X7R                  90.00      13.90      18.05      BOTTOM     YES
+D11                              CD0603                           0.00       25.50      33.95      BOTTOM     YES
+C156                             C0603_47pF_NPO                   180.00     25.00      40.50      BOTTOM     YES
+C33                              C0603_100nF_X7R                  90.00      38.45      14.05      TOP        NO
+R113                             R0603_1K 1%                      180.00     23.85      1.45       BOTTOM     YES
+C148                             C0603_10uF_X7R                   0.00       31.80      32.45      BOTTOM     YES
+R17                              R0603_10K 1%                     0.00       20.50      47.25      TOP        NO
+C155                             C0603_10uF_X7R                   90.00      24.80      36.85      BOTTOM     YES
+C149                             C0603_10uF_X7R                   0.00       31.80      33.70      BOTTOM     YES
+C169                             C0603_100nF_X7R                  180.00     13.90      44.20      BOTTOM     YES
+C165                             C0603_1uF_X7R                    90.00      19.20      36.85      BOTTOM     YES
+C30                              C0603_100nF_X7R                  270.00     34.95      14.05      TOP        NO
+FB6                              BLM18AG221SN1                    180.00     4.70       18.75      BOTTOM     YES
+L1                               744025100                        270.00     28.55      36.90      TOP        NO
+R24                              R0603_360K                       270.00     34.45      31.25      TOP        NO
+C21                              C0603_100nF_X7R                  90.00      24.80      36.85      TOP        NO
+U2                               MCIMX233CAG4C                    270.00     21.00      26.25      TOP        NO
+R115                             R0603_0 Ohm                      90.00      18.00      36.85      BOTTOM     YES
+L2                               744025002                        0.00       38.75      35.55      TOP        NO
+C36                              C0603_10nF_X7R                   0.00       38.80      28.65      TOP        NO
+TP23                             TEST_POINT_1mm                   0.00       12.93      41.40      BOTTOM     YES
+P6                               CN_PBD_6_2mm                     90.00      15.20      57.21      TOP        NO
+R122                             R0402_open                       180.00     8.50       39.10      BOTTOM     YES
+RK1                              NTC0805_10K_Epcos                0.00       22.60      29.90      BOTTOM     YES
+FB1                              BLM18AG221SN1                    270.00     4.90       30.20      TOP        NO
+R111                             R0603_1K 1%                      180.00     27.30      1.45       BOTTOM     YES
+C17                              C0603_10pF_NPO                   0.00       20.50      44.85      TOP        NO
+TP18                             TEST_POINT_1mm                   0.00       28.28      34.20      BOTTOM     YES
+R126                             R0402_open                       180.00     8.50       42.90      BOTTOM     YES
+P11                              CN_HDR_1x2                       270.00     39.00      11.05      TOP        NO
+C2                               C0603_10uF_X7R                   270.00     3.55       30.20      TOP        NO
+C170                             C0603_100nF_X7R                  270.00     10.25      8.05       BOTTOM     YES
+C162                             C0603_10uF_X7R                   90.00      22.00      36.85      BOTTOM     YES
+C163                             C0603_100nF_X7R                  0.00       20.65      1.50       BOTTOM     YES
+R23                              R0603_open                       0.00       35.35      28.65      TOP        NO
+TP19                             TEST_POINT_1mm                   0.00       19.60      31.79      BOTTOM     YES
+C5                               C0603_100nF_X7R                  270.00     11.05      14.05      TOP        NO
+C1                               C0603_100nF_X7R                  270.00     2.35       30.20      TOP        NO
+C146                             C0603_10uF_X7R                   0.00       31.80      29.95      BOTTOM     YES
+R12                              R0603_open                       0.00       10.10      36.95      TOP        NO
+R3                               R0402_open                       180.00     9.20       27.25      TOP        NO
+C34                              C0603_10uF_X7R                   90.00      39.65      14.05      TOP        NO
+C18                              C0603_100nF_X7R                  180.00     23.85      1.45       TOP        NO
+R127                             R0402_open                       180.00     8.50       43.85      BOTTOM     YES
+TP22                             TEST_POINT_1mm                   0.00       12.92      39.96      BOTTOM     YES
+P4                               CN_PBD_6_2mm                     90.00      9.90       57.25      TOP        NO
+C12                              C0603_100nF_X7R                  90.00      18.00      36.85      TOP        NO
+R22                              R0603_open                       180.00     35.35      27.45      TOP        NO
+C167                             C0603_100nF_X7R                  0.00       16.75      1.50       BOTTOM     YES
+TP1                              TEST_POINT_1mm                   0.00       22.81      39.27      TOP        NO
+R10                              R0402_open                       180.00     9.20       33.90      TOP        NO
+TP17                             TEST_POINT_1mm                   0.00       31.50      39.30      BOTTOM     YES
+C8                               C0603_10uF_X7R                   0.00       14.85      13.95      TOP        NO
+R119                             R0603_100K                       90.00      11.25      40.85      BOTTOM     YES
+P5                               CN_PLD_16_2mm                    180.00     22.60      67.25      TOP        NO
+R4                               R0402_open                       180.00     9.20       28.20      TOP        NO
+C10                              C0603_10uF_X7R                   90.00      14.85      36.85      TOP        NO
+C144                             C0603_100nF_X7R                  270.00     34.95      14.05      BOTTOM     YES
+C23                              C0603_100nF_X7R                  180.00     27.30      1.45       TOP        NO
+C152                             C0603_10uF_X7R                   90.00      26.00      36.85      BOTTOM     YES
+R117                             R0603_1K 1%                      90.00      16.80      40.85      BOTTOM     YES
+D10                              BAT54S                           180.00     28.45      38.30      BOTTOM     YES
+C11                              C0603_100nF_X7R                  0.00       16.75      1.50       TOP        NO
+R1                               R0603_open                       180.00     6.65       36.95      TOP        NO
+R120                             R0603_0 Ohm                      270.00     9.40       21.65      BOTTOM     YES
+TP16                             TEST_POINT_1mm                   0.00       31.52      37.30      BOTTOM     YES
+C28                              C0603_100nF_X7R                  0.00       31.80      32.45      TOP        NO
+R123                             R0402_open                       180.00     8.50       40.05      BOTTOM     YES
+Q1                               BC847BS                          90.00      17.00      45.45      TOP        NO
+R124                             R0402_open                       180.00     8.50       41.00      BOTTOM     YES
+C161                             C0603_10uF_X7R                   90.00      23.30      36.85      BOTTOM     YES
+R14                              R0603_10K 1%                     0.00       16.10      48.20      TOP        NO
+C154                             C0805_10uF_X5R_16V               180.00     24.60      31.75      BOTTOM     YES
+C6                               C0603_100nF_X7R                  90.00      13.60      36.85      TOP        NO
+R118                             R0603_10K 1%                     180.00     13.90      43.00      BOTTOM     YES
+P25                              MICRO-SD_503182-0852             90.00      2.26       30.35      BOTTOM     YES
+C166                             C0603_100nF_X7R                  270.00     18.00      40.85      BOTTOM     YES
+C164                             C0603_100nF_X7R                  90.00      17.80      18.05      BOTTOM     YES
+TP3                              TEST_POINT_1mm                   0.00       25.67      46.06      TOP        NO
+R21                              R0603_1K 1%                      0.00       31.80      27.45      TOP        NO
+P1                               CN_PLD_16_2mm                    90.00      5.00       47.60      TOP        NO
+R125                             R0402_open                       180.00     8.50       41.95      BOTTOM     YES
+LD1                              LED_0603                         180.00     31.80      28.70      TOP        NO
+P3                               CN_PBD_6_2mm                     270.00     11.90      54.25      TOP        NO
+C160                             C0603_10uF_X7R                   180.00     22.50      33.95      BOTTOM     YES
+C157                             C0603_100nF_X7R                  90.00      21.70      18.05      BOTTOM     YES
+C27                              C0603_100nF_X7R                  0.00       31.80      31.20      TOP        NO
+C4                               C0603_10uF_X7R                   90.00      3.55       33.70      TOP        NO
+U4                               TPS62150A                        270.00     38.50      31.50      TOP        NO
+C172                             C0603_100nF_X7R                  270.00     9.85       14.05      BOTTOM     YES
+R16                              R0603_10K 1%                     0.00       20.50      46.05      TOP        NO
+C31                              C0805_10uF_X5R_16V               270.00     36.00      35.55      TOP        NO
+R20                              R0603_10K                        90.00      26.50      11.25      TOP        NO
+$PART_SECTION_END$
